@@ -1,5 +1,4 @@
 
----
 
 # **FastAPI Hello World** 🌍  
 
@@ -53,7 +52,4 @@ FastAPI-HelloWorld/
 | GET    | `/`       | Welcome message      |
 | GET    | `/hello`  | Returns "Hello World" |
 
-## **Contributing**  
-Feel free to open issues or submit PRs! 🚀  
 
----
